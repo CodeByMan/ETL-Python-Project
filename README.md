@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🏦 ETL Python Project</h1>
+<img src="ETL.png" alt="ETL Pipeline" width="900"/>
 
 <p>
 <b>Python ETL pipeline for extracting the world's largest banks by market capitalization, transforming currency values, and loading results into CSV and SQLite.</b>
@@ -17,8 +17,6 @@
 </div>
 
 ---
-
-<img src="ETL.png" alt="ETL Pipeline" width="900"/>
 
 ## 📌 Project Overview
 
