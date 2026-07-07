@@ -18,6 +18,8 @@
 
 ---
 
+<img src="ETL.png" alt="ETL Pipeline" width="900"/>
+
 ## 📌 Project Overview
 
 This project demonstrates a complete **Extract, Transform, Load (ETL)** workflow using Python.
